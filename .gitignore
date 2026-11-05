@@ -7,3 +7,5 @@ weather.xlsx
 
 .env
 
+
+__pycache__

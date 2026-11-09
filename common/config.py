@@ -7,4 +7,4 @@ class AppConfig:
 
     API_KEY = os.getenv("API_KEY")
     CITY="Warsaw"
-    FILENAME="weather.xlsx"
+    FILENAME="pogoda_2026.csv"
